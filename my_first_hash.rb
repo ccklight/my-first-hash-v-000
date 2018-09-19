@@ -1,5 +1,5 @@
 def my_hash
-International desserts = {"French_pastry" => "macaron", "Italian_pastry" => "cannoli", "German_pastry" => "streusel" 
+  desserts = {"French_pastry" => "macaron", "Italian_pastry" => "cannoli", "German_pastry" => "streusel" 
 }
 end
 
