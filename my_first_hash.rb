@@ -41,6 +41,4 @@ shipping_manifest[:item2] = 2
 # shipping_manifest
 
 
-
-
 end
