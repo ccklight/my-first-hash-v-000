@@ -37,7 +37,7 @@ def adding
 # shipping_manifest[:item2] = 2
 
 
-# shipping_manifest["gun powder" => 4, "muskets" => 2]
+
 # shipping_manifest
 
 
