@@ -1,7 +1,7 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-desserts = {"french_pastry" => "macaron", "italian_pastry" => "cannoli", 
-  
+International_ desserts = {"French_pastry" => "macaron", "Italian_pastry" => "cannoli", "German_pastry" => "streusel" 
+}
 end
 
 
